@@ -40,4 +40,4 @@ $ rails server
 For more information, see the
 [*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
 
-Test of revert.
+I'm adding something to the revert.
